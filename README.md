@@ -35,7 +35,7 @@ Some of the best resources for coding are on the web and the best way to learn a
 
 * [THINKING, FAST AND SLOW: A compelling exploration of human thought processes](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0385676514/ref=sr_1_2?crid=7UWHVIE2UTM4&dchild=1&keywords=thinking+fast+and+slow&qid=1620934453&s=books&sprefix=thinkig+fast+and+slow%2Cstripbooks%2C186&sr=1-2)
   * An indepth look at how we think on different levels and how they are significant to daily life
-  * in coding section because the principles are good to remember when when training themselves to be effective
+  * in coding section because the principles are good to remember when we are training ourselves to be effective and efficiant at any skill
 
 * [Cloud Architecture Patterns](https://www.oreilly.com/library/view/cloud-architecture-patterns/9781449357979/)
   * this book outlines 11 different design patterns to use when designing cloud architecture
