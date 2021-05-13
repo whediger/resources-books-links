@@ -40,7 +40,7 @@ Some of the best resources for coding are on the web and the best way to learn a
 * [Cloud Architecture Patterns](https://www.oreilly.com/library/view/cloud-architecture-patterns/9781449357979/)
   * this book outlines 11 different design patterns to use when designing cloud architecture
 
-* [VIM Adventures](https://vim-adventures.com/)
+* [VIM Adventures - **online game**](https://vim-adventures.com/)
   * learn VIM commands by playing a game
   * helps you take the toil out of coding
 
