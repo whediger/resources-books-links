@@ -16,6 +16,20 @@ if you have any comments or suggestions please create an issue
 ## Coding 
 Some of the best resources for coding are on the web and the best way to learn a language is to practice it so there are not many resources here on a particular language. To learn a new language, find a tutorial and then make sure you _write the code_. it doesn't matter if you start by copying the tutorial, just make sure you type it all out. This is important because you are teaching yourself on two different levels. One - you're learning to understand on a conscious level what the purpose of the language is and how it was designed. Different languages are good for different things. Two - you must also teach your subconscious to respond to different queues in the unfamiliar environment and train your hands to automatically use various keyboard shortcuts. Different languages have different syntax and it is important to type it out so your subconscious is able to support you while your conscious is busy formulating ideas. 
 
+* [The Dip: A Little Book That Teaches You When to Quit (and When to Stick)](https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666)
+  * This is a popular book for developers who, and everyone does eventually, have encoutered the "imposter syndrome"
+  * it's useful for anyone facing new challenges and pushing themselves into unfamiliar territories
+  * It's also a quick read and short book
+
+* [Multiple publications on Play theory](https://mitpress.mit.edu/search?keywords=Play+theory+series)
+  * Play theory has played a critical role in the developement of AI
+  * It is also aplicable to many parts of life as it gives a framework of setting boundries for exploration in a useful way
+  * This is a list of books published by M.I.T. press
+
+* [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)
+  * A populart book for learning Object Oriented Principles with a casual and fun approach
+  * Head First Object Oriented Analysis and Design is a refreshing look at subject of OOAD. What sets this book apart is its focus on learning. The authors have made the content of OOAD accessible and usable for the practitioner
+
 * [Why You Should Limit Your Number of Daily Decisions - **Blog**](https://www.entrepreneur.com/article/244395)
   * this supports learning to use keyboard shortcuts and practicing new languages by typing them out to make as many subconscious as possible thus allowing you to use the limited number of decisions you are able to make daily focused on more things that make a difference
 
