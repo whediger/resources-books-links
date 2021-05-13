@@ -100,8 +100,8 @@ Some of the best resources for coding are on the web and the best way to learn a
 
 * [Nine Lies About Work: A Freethinking Leader’s Guide to the Real World](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C)
   * in personal section for two reasons
-   1 some of the concepts are ahead of their time and may not be recognized by the leaders of your organization
-   1 this book describs concepts you can apply to yourself than to an organization
+   - - some of the concepts are ahead of their time and may not be recognized by the leaders of your organization
+   - - this book describs concepts you can apply to yourself than to an organization
   * You crave feedback. Your organization's culture is the key to its success. Strategic planning is essential. Your competencies should be measured and your weaknesses shored up. Leadership is a thing.
    * These may sound like basic truths of our work lives today. But actually, they're lies.
 
