@@ -1,2 +1,117 @@
 # resources-books-links
 a list of books, resources, and links for reference
+
+-----------
+
+## About
+this is a list of resources for more in depth information concerning building more Autonomy, Mastery and Purpose in a career
+
+it is a shared resource and living document
+
+if you have any comments or suggestions please create an issue
+
+
+-----------
+
+## Coding 
+Some of the best resources for coding are on the web and the best way to learn a language is to practice it so there are not many resources here on a particular language. To learn a new language, find a tutorial and then make sure you _write the code_. it doesn't matter if you start by copying the tutorial, just make sure you type it all out. This is important because you are teaching yourself on two different levels. One - you're learning to understand on a conscious level what the purpose of the language is and how it was designed. Different languages are good for different things. Two - you must also teach your subconscious to respond to different queues in the unfamiliar environment and train your hands to automatically use various keyboard shortcuts. Different languages have different syntax and it is important to type it out so your subconscious is able to support you while your conscious is busy formulating ideas. 
+
+* [Why You Should Limit Your Number of Daily Decisions - **Blog**](https://www.entrepreneur.com/article/244395)
+  * this supports learning to use keyboard shortcuts and practicing new languages by typing them out to make as many subconscious as possible thus allowing you to use the limited number of decisions you are able to make daily focused on more things that make a difference
+
+* [THINKING, FAST AND SLOW: A compelling exploration of human thought processes](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0385676514/ref=sr_1_2?crid=7UWHVIE2UTM4&dchild=1&keywords=thinking+fast+and+slow&qid=1620934453&s=books&sprefix=thinkig+fast+and+slow%2Cstripbooks%2C186&sr=1-2)
+  * An indepth look at how we think on different levels and how they are significant to daily life
+  * in coding section because the principles are good to remember when when training themselves to be effective
+
+* [Cloud Architecture Patterns](https://www.oreilly.com/library/view/cloud-architecture-patterns/9781449357979/)
+  * this book outlines 11 different design patterns to use when designing cloud architecture
+
+* [VIM Adventures](https://vim-adventures.com/)
+  * learn VIM commands by playing a game
+  * helps you take the toil out of coding
+
+* [Design Patterns - The Gang of Four](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=asc_df_0201633612/?tag=hyprod-20&linkCode=df0&hvadid=312280575053&hvpos=&hvnetw=g&hvrand=14269532006135270825&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1025197&hvtargid=pla-395340045790&psc=1)
+  * this is a book that gets referenced all the time
+  * even though it was written years ago its concepts transcend time as good practice
+  * in it's pages you will come to understand what a design pattern is and some of the iconic patterns and principles
+
+* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=sr_1_1?crid=2ZO814KSRLGEV&dchild=1&keywords=devops+handbook&qid=1620933403&s=books&sprefix=devops+hand%2Cstripbooks%2C178&sr=1-1)
+  * Well known book about effective management of technology
+
+* [Devops Days - How Netflix thinks of Devops - **Video**](https://youtu.be/UTKIT6STSVM)
+  * great video talking about devops as a culture **not a technology**
+
+
+----------
+
+## Computer Interfaces and related theory
+
+* [best interface is no interface](https://www.amazon.com/Best-Interface-No-brilliant-technology/dp/0133890333)
+  * this book is good for understanding the future of how people will be using computers, when they are no longer forced to use a smartphone or laptop
+
+* [Actionable Gamification: Beyond Points, Badges, and Leaderboards](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards-ebook/dp/B00WAOGY4U/ref=sr_1_1?crid=20F1J92ZW949K&dchild=1&keywords=actionable+gamification&qid=1620934041&s=books&sprefix=actiona%2Cstripbooks%2C187&sr=1-1)
+  * cutting edge of behavioural design and theory applicable in many areas analog and digital
+
+-----------
+
+## Creating better organizations
+
+* [Leading Digital: Turning Technology into Business Transformation](https://www.amazon.com/Leading-Digital-Technology-Business-Transformation/dp/1625272472/ref=sr_1_1?dchild=1&keywords=leading+digital&qid=1620936237&s=books&sr=1-1)
+  * If you think the phrase “going digital” is only relevant for industries like tech, media, and entertainment—think again. In fact, mobile, analytics, social media, sensors, and cloud computing have already fundamentally changed the entire business landscape as we know it—including your industry. The problem is that most accounts of digital in business focus on Silicon Valley stars and tech start-ups. But what about the other 90-plus percent of the economy?
+
+* [Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491/ref=sr_1_1?crid=3436P7ZRB1C3&dchild=1&keywords=blue+ocean+strategy&qid=1620936332&s=books&sprefix=Blue+ocean+%2Cstripbooks%2C183&sr=1-1)
+  * RECOGNIZED AS ONE OF THE MOST ICONIC AND IMPACTFUL STRATEGY BOOKS EVER WRITTEN
+
+* [Revolutionizing Product Development: Quantum Leaps in Speed, Efficiency and Quality](https://www.amazon.com/Revolutionizing-Product-Development-Quantum-Efficiency/dp/1451676298)
+  * proven principles for developing the critical capabilities for speed, efficiency, and quality that have worked again and again in scores of successful Japanese, American, and European fast-cycle firms.
+
+* [Designed for Digital: How to Architect Your Business for Sustained Success (Management on the Cutting Edge)](https://www.amazon.com/Designed-Digital-Architect-Sustained-Management/dp/0262042886)
+  * Practical advice for redesigning “big, old” companies for digital success, with examples from Amazon, BNY Mellon, LEGO, Philips, USAA, and many other global organizations.
+
+* [Enterprise Architecture As Strategy: Creating a Foundation for Business Execution](https://www.amazon.com/Enterprise-Architecture-Strategy-Foundation-Execution/dp/1591398398/ref=sr_1_1?crid=1DTULA1LO6AKN&dchild=1&keywords=enterprise+architecture+as+strategy&qid=1620933782&s=books&sprefix=enterprise+architecture%2Cstripbooks%2C200&sr=1-1)
+  * Does it seem you’ve formulated a rock-solid strategy, yet your firm still can’t get ahead? If so, construct a solid foundation for business execution—an IT infrastructure and digitized business processes to automate your company’s core capabilities. 
+
+* [Organizational Culture, What’s Your Company’s Sentence? by Bill Taylor - Online Article](https://hbr.org/2010/01/whats-your-companys-sentence)
+  * Evidence for caring about your companies slogan, formal values, etc and why
+
+* [the phoenix project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+  * this is a good book for learning about organizational IT culture that might otherwise take years of experience to realize
+
+-----------
+
+## Personal productivity, improvement and tools
+
+* [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+  * Key takeaway is that we are motivated by Autonomy, Mastery, and Purpose
+  * Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does—and how that affects every aspect of life. He examines the three elements of true motivation—autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.
+
+* [Our Work-from-Anywhere Future](https://hbr.org/2020/11/our-work-from-anywhere-future)
+  * this is also a clear definition of the difference between work from home and work from anywhere
+  * it also presents an argument for a work from anywhere future as a general trend and what it means to employers and employees
+
+* [Where Good Ideas Come From: The Natural History of Innovation](https://www.amazon.com/Where-Good-Ideas-Come-Innovation/dp/1594485380/ref=sr_1_1?crid=1XTLPVDPMNBN2&dchild=1&keywords=where+good+idea+come+from+steven+johnson&qid=1620933234&s=books&sprefix=where+good+ideas+come+from%2Cstripbooks%2C204&sr=1-1)
+  * Economist best book of the year
+  * A book for looking at innovation as a trend that runs through history to help understand where it's going
+
+* [7 habits of highly effective people](https://www.amazon.com/Habits-Highly-Effective-People-Anniversary/dp/1642503177/ref=sr_1_1_sspa?dchild=1&keywords=7+habits+of+highly+effective+people&qid=1620933883&s=books&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSDVYWUY2SEFMR1hYJmVuY3J5cHRlZElkPUEwMTgzOTI0MjYzWjJJR1pSUkVUWiZlbmNyeXB0ZWRBZElkPUEwNDYwNDQzMTAzRkpENVJIN1RURyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+  * a time proven classic that still gets attention
+  * powerful lessons in personal change
+
+* [emotional intelligence 2.0](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=sr_1_3?crid=1D85J57QM6E5&dchild=1&keywords=emotional+intelligence+2.0&qid=1620933001&s=books&sprefix=emotional+%2Cstripbooks%2C239&sr=1-3)
+  * A well known book for understanding what emotional intelligence is and gives you self assessment tools
+  * A step by step program to harness the #1 predictor of professional success and personal excellence
+
+* [algorithms to live by the computer science of human decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1250118360/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1620932824&sr=1-1)
+  * This book approaches life's decision making processes by creating algorithms for them
+  * It would make a fun and practical weekend project to code this out into a web app
+
+* [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+  * this book defines what it means to go from having a disruptive idea to implementing it
+  * it discusses the challenges, thoughts (your own and others), actions and expectations that happen along the way
+
+* [Bullet Journal](https://bulletjournal.com/)
+    * Highly reccomended
+    * you can find enough information on the website to get started using the concept for free
+    * System helps people focus on what is important, plan the future, and reflect on the past
+    * it is a popular personal organizational tool
+    * It is "analog", written with a pen in a journal. This is an intentional part of the strategy and is to your benifit
