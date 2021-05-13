@@ -59,6 +59,7 @@ Some of the best resources for coding are on the web and the best way to learn a
 ----------
 
 ## Computer Interfaces and related theory - computer<->human interaction
+Computer interface is so much more than a webpage or phone app. As a technology computers are in their infancy. We should be able to interact with them simply by going about out daily business relying on them to behave logically and rationally (which is what computers are good at) allowing people to focus on being emotionally intelligent (which is what humans are good at)
 
 * [When Things Start to Think](https://www.amazon.com/When-Things-Start-Think-Gershenfeld/dp/0805058745)
   * Gershenfeld offers a glimpse at the brave new post-computerized world, where microchips work for us instead of against us. He argues that we waste the potential of the microchip when we confine it to a box on our desk: the real electronic revolution will come when computers have all but disappeared into the walls around us.
@@ -72,6 +73,14 @@ Some of the best resources for coding are on the web and the best way to learn a
 -----------
 
 ## Creating better organizations
+The idea of creating a better organization is for it to find and provide a unique purpose of value to the rest of the world ethically and in a way it is able to sustain itself. 
+* It’s true that a corporation must make money. 
+* It is also true that if we do not eat we will starve to death. 
+* Neither of these statements proves that either are inherently evil. 
+
+
+What are we going to do about it?
+
 
 * [Leading Digital: Turning Technology into Business Transformation](https://www.amazon.com/Leading-Digital-Technology-Business-Transformation/dp/1625272472/ref=sr_1_1?dchild=1&keywords=leading+digital&qid=1620936237&s=books&sr=1-1)
   * If you think the phrase “going digital” is only relevant for industries like tech, media, and entertainment—think again. In fact, mobile, analytics, social media, sensors, and cloud computing have already fundamentally changed the entire business landscape as we know it—including your industry. The problem is that most accounts of digital in business focus on Silicon Valley stars and tech start-ups. But what about the other 90-plus percent of the economy?
