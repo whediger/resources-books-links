@@ -52,7 +52,7 @@ Some of the best resources for coding are on the web and the best way to learn a
 * [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=sr_1_1?crid=2ZO814KSRLGEV&dchild=1&keywords=devops+handbook&qid=1620933403&s=books&sprefix=devops+hand%2Cstripbooks%2C178&sr=1-1)
   * Well known book about effective management of technology
 
-* [Devops Days - How Netflix thinks of Devops - **Video**](https://youtu.be/UTKIT6STSVM)
+* [Devops Days - How Netflix thinks of Devops - **Online Video**](https://youtu.be/UTKIT6STSVM)
   * great video talking about devops as a culture **not a technology**
 
 
@@ -102,7 +102,7 @@ Some of the best resources for coding are on the web and the best way to learn a
   * Key takeaway is that we are motivated by Autonomy, Mastery, and Purpose
   * Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does—and how that affects every aspect of life. He examines the three elements of true motivation—autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.
 
-* [Our Work-from-Anywhere Future - online article](https://hbr.org/2020/11/our-work-from-anywhere-future)
+* [Our Work-from-Anywhere Future - **online article**](https://hbr.org/2020/11/our-work-from-anywhere-future)
   * this is also a clear definition of the difference between work from home and work from anywhere
   * it also presents an argument for a work from anywhere future as a general trend and what it means to employers and employees
 
