@@ -112,7 +112,7 @@ What are we going to do about it?
    - - some of the concepts are ahead of their time and may not be recognized by the leaders of your organization
    - - this book describs concepts you can apply to yourself more readily than you can to an organization
   * You crave feedback. Your organization's culture is the key to its success. Strategic planning is essential. Your competencies should be measured and your weaknesses shored up. Leadership is a thing.
-   * These may sound like basic truths of our work lives today. But actually, they're lies.
+   - - These may sound like basic truths of our work lives today. But actually, they're lies.
 
 * [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
   * Key takeaway is that we are motivated by Autonomy, Mastery, and Purpose
