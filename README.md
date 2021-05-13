@@ -58,7 +58,7 @@ Some of the best resources for coding are on the web and the best way to learn a
 
 ----------
 
-## Computer Interfaces and related theory
+## Computer Interfaces and related theory - computer<->human interaction
 
 * [When Things Start to Think](https://www.amazon.com/When-Things-Start-Think-Gershenfeld/dp/0805058745)
   * Gershenfeld offers a glimpse at the brave new post-computerized world, where microchips work for us instead of against us. He argues that we waste the potential of the microchip when we confine it to a box on our desk: the real electronic revolution will come when computers have all but disappeared into the walls around us.
@@ -97,6 +97,13 @@ Some of the best resources for coding are on the web and the best way to learn a
 -----------
 
 ## Personal productivity, improvement and tools
+
+* [Nine Lies About Work: A Freethinking Leader’s Guide to the Real World](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C)
+  * in personal section for two reasons
+   1 some of the concepts are ahead of their time and may not be recognized by the leaders of your organization
+   1 this book describs concepts you can apply to yourself than to an organization
+  * You crave feedback. Your organization's culture is the key to its success. Strategic planning is essential. Your competencies should be measured and your weaknesses shored up. Leadership is a thing.
+   * These may sound like basic truths of our work lives today. But actually, they're lies.
 
 * [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
   * Key takeaway is that we are motivated by Autonomy, Mastery, and Purpose
