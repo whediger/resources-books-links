@@ -60,6 +60,9 @@ Some of the best resources for coding are on the web and the best way to learn a
 
 ## Computer Interfaces and related theory
 
+* [When Things Start to Think](https://www.amazon.com/When-Things-Start-Think-Gershenfeld/dp/0805058745)
+  * Gershenfeld offers a glimpse at the brave new post-computerized world, where microchips work for us instead of against us. He argues that we waste the potential of the microchip when we confine it to a box on our desk: the real electronic revolution will come when computers have all but disappeared into the walls around us.
+
 * [best interface is no interface](https://www.amazon.com/Best-Interface-No-brilliant-technology/dp/0133890333)
   * this book is good for understanding the future of how people will be using computers, when they are no longer forced to use a smartphone or laptop
 
