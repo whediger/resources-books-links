@@ -33,6 +33,10 @@ Some of the best resources for coding are on the web and the best way to learn a
 * [steps toward the glory of REST - **online Blog**](https://martinfowler.com/articles/richardsonMaturityModel.html)
   * great resource for understand RESTful services
 
+* [Code faster: 53 tips from the pros - Google - **online blog**](https://techbeacon.com/app-dev-testing/code-faster-53-tips-pros)
+  * Tips and tools for becoming a faster developer
+  * NOTE: it lists Reflection as a key concept. A [bullet journal](https://bulletjournal.com/) is helpful for this and free to learn
+
 * [Why You Should Limit Your Number of Daily Decisions - **Blog**](https://www.entrepreneur.com/article/244395)
   * this supports learning to use keyboard shortcuts and practicing new languages by typing them out to make as many subconscious as possible thus allowing you to use the limited number of decisions you are able to make daily focused on more things that make a difference
 
