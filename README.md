@@ -31,7 +31,7 @@ Some of the best resources for coding are on the web and the best way to learn a
   * Head First Object Oriented Analysis and Design is a refreshing look at subject of OOAD. What sets this book apart is its focus on learning. The authors have made the content of OOAD accessible and usable for the practitioner
 
 * [steps toward the glory of REST - **online Blog**](https://martinfowler.com/articles/richardsonMaturityModel.html)
- * great resource for understand RESTful services
+  * great resource for understand RESTful services
 
 * [Why You Should Limit Your Number of Daily Decisions - **Blog**](https://www.entrepreneur.com/article/244395)
   * this supports learning to use keyboard shortcuts and practicing new languages by typing them out to make as many subconscious as possible thus allowing you to use the limited number of decisions you are able to make daily focused on more things that make a difference
