@@ -30,6 +30,10 @@ Some of the best resources for coding are on the web and the best way to learn a
   * A populart book for learning Object Oriented Principles with a casual and fun approach
   * Head First Object Oriented Analysis and Design is a refreshing look at subject of OOAD. What sets this book apart is its focus on learning. The authors have made the content of OOAD accessible and usable for the practitioner
 
+* [Eloquent JavaScript - **online free book**](https://eloquentjavascript.net/)
+  * THis is a good book to work through if you wan to learn javascript
+  * Be sure to write all the code in the book
+
 * [steps toward the glory of REST - **online Blog**](https://martinfowler.com/articles/richardsonMaturityModel.html)
   * great resource for understand RESTful services
 
