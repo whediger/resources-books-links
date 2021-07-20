@@ -118,6 +118,14 @@ What are we going to do about it?
 
 ## Personal productivity, improvement and tools
 
+* [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202/ref=asc_df_0061339202/?tag=hyprod-20&linkCode=df0&hvadid=270645996404&hvpos=&hvnetw=g&hvrand=14648454401471813544&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011860&hvtargid=pla-395221952060&psc=1)
+  * Every developer should be thinking about how they can maximize the amount of time they spend in a flow state.
+
+* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=pd_bxgy_img_2/144-4453685-5477153?pd_rd_w=AARoz&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=MBK0D985YA0CB5E8JZBP&pd_rd_r=a4003488-48a3-486f-b670-52f540fe935a&pd_rd_wg=KdSEx&pd_rd_i=0735211299&psc=1)
+  * People have a limited amount of cognitive energy they can use each day
+  * subconscious actions don't require as much cognitive energy so you can spend the energy you save creating solutions for unique problems instead
+  * Understanding how habits are made and changed will help you make as many repetitive tasks as possible a subconscious action efficiently
+
 * [Nine Lies About Work: A Freethinking Leader’s Guide to the Real World](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C)
   * in personal section for two reasons
    - - some of the concepts are ahead of their time and may not be recognized by the leaders of your organization
