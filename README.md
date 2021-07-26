@@ -119,9 +119,9 @@ What are we going to do about it?
 ## Personal productivity, improvement and tools
 
 * [Getting to Yes with Yourself](https://www.pon.harvard.edu/daily/teaching-negotiation-daily/getting-to-yes-with-yourself-book-william-ury/)
-  *. This book on **negotiation** may surprise you. Its contents are valuable in many ways not typically thought of as "negotiation"
-  *. Written by William Ury, co-founder of the Program on Negotiation, one of the world’s leading experts on negotiation
-  *. Great negotiators know that the path to resolution is not always linear but rather a series of switchbacks and obstacles. Ury proposes that one of our biggest obstacles is often overlooked: ourselves. Once we understand this and address our blind spots, we gain better mental clarity. In Getting To Yes With Yourself, which was selected by TIME magazine as one of the best negotiation books of 2015, Ury urges us to focus on ourselves in order to be better prepared for our adversaries. When activated through Ury’s Inner Yes Method, it is simple and powerful – and could make all the difference at the negotiation table.
+  *  This book on **negotiation** may surprise you. Its contents are valuable in many ways not typically thought of as "negotiation"
+  *  Written by William Ury, co-founder of the Program on Negotiation, one of the world’s leading experts on negotiation
+  *  Great negotiators know that the path to resolution is not always linear but rather a series of switchbacks and obstacles. Ury proposes that one of our biggest obstacles is often overlooked: ourselves. Once we understand this and address our blind spots, we gain better mental clarity. In Getting To Yes With Yourself, which was selected by TIME magazine as one of the best negotiation books of 2015, Ury urges us to focus on ourselves in order to be better prepared for our adversaries. When activated through Ury’s Inner Yes Method, it is simple and powerful – and could make all the difference at the negotiation table.
 
 * [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202/ref=asc_df_0061339202/?tag=hyprod-20&linkCode=df0&hvadid=270645996404&hvpos=&hvnetw=g&hvrand=14648454401471813544&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9011860&hvtargid=pla-395221952060&psc=1)
   * Every developer should be thinking about how they can maximize the amount of time they spend in a flow state.
